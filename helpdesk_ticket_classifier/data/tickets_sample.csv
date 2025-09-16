@@ -1,0 +1,6 @@
+ticket_id,description,category,priority
+1,"PC startet nicht",Hardware,Hoch
+2,"Passwort vergessen",Account,Niedrig
+3,"Drucker offline",Hardware,Mittel
+4,"Software-Update benötigt",Software,Niedrig
+5,"Netzwerk langsam",Netzwerk,Mittel
